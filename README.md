@@ -1,6 +1,22 @@
 # Thrym
 An OpenCV-based robot for Ragnarock players
 
+## Requirements
+To run this script, you need Python 3.10 or higher, along with the following packages:
+
+- `opencv-python`
+- `vidgear`
+- `pyautogui`
+- `pygetwindow`
+- `numpy`
+
+##Installation
+
+To install these packages, you can use pip. Run the following command in your terminal:
+
+```bash
+pip install opencv-python vidgear pyautogui pygetwindow numpy```
+
 ## Read carefully before using
 Thrym is an open-source project provided "as is," without warranty of any kind, express or implied. By using Thrym, you agree that:
 

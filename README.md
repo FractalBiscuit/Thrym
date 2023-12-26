@@ -15,7 +15,7 @@ To run this script, you need Python 3.10 or higher, along with the following pac
 To install these packages, you can use pip. Run the following command in your terminal:
 
 ```bash
-pip install opencv-python vidgear pyautogui pygetwindow numpy```
+pip install opencv-python vidgear pyautogui pygetwindow numpy
 
 ## Read carefully before using
 Thrym is an open-source project provided "as is," without warranty of any kind, express or implied. By using Thrym, you agree that:

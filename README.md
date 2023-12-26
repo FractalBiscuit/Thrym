@@ -10,7 +10,7 @@ To run this script, you need Python 3.10 or higher, along with the following pac
 - `pygetwindow`
 - `numpy`
 
-##Installation
+## Installation
 
 To install these packages, you can use pip. Run the following command in your terminal:
 

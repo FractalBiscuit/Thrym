@@ -16,6 +16,7 @@ To install these packages, you can use pip. Run the following command in your te
 
 ```bash
 pip install opencv-python vidgear pyautogui pygetwindow numpy
+```
 
 ## Read carefully before using
 Thrym is an open-source project provided "as is," without warranty of any kind, express or implied. By using Thrym, you agree that:
